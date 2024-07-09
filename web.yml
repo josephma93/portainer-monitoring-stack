@@ -1,0 +1,3 @@
+# See: https://prometheus.io/docs/guides/basic-auth/
+basic_auth_users:
+  admin: CHANGE_ME
